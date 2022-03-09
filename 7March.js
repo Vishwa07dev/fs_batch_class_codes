@@ -230,3 +230,15 @@ console.log(sliceArr.slice(-4));
 console.log(sliceArr.slice(-4,-1));
 
 
+/**
+ * Convert a string into an array
+ */
+
+var str  = "Vishwa";
+
+var charArr = str.split("");
+console.log(charArr);
+
+
+
+
